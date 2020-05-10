@@ -273,13 +273,14 @@ td:last-child {
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
+    margin-bottom: 32px;
 }
 
 
 .table-container .header a {
     margin: 0;
     width: 120px;
-    margin-bottom: 32px;
+    
 }
 
 .table-container .header form {
